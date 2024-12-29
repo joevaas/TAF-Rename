@@ -14,7 +14,7 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "BQGJpOEALt4IdhZRubNAl4m6iyA0s
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002005092018")
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "https://t.me/Tamil_Anime_Files")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002151806170"))
 
 
